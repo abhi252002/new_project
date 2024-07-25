@@ -5,4 +5,4 @@ it is new file
 Abhishek prajapati
 
 # Teacher 
-Shraddha khapra from apna college
+Shraddha khapra from apna college.
